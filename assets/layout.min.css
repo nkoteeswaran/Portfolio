@@ -3,14 +3,9 @@ body{background-color:#22222d;
     color:#ffffff;
 	font-family:Calibri,Segoe,Segoe UI;
 	font-size:15px}
-
-
-
 .container{max-width:900px;width:80%;margin:100px auto}
 .avatar img{-webkit-filter:drop-shadow(0px 0px 0px #ffffff);
 	filter:drop-shadow(0px 10px 10px #191c68)}
-
-
 .menu ul,
 .social ul,
 .information ul{margin:0;padding:0}
