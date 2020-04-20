@@ -9,7 +9,8 @@ body{background-color:#22222d;
 
 #body a {color:#d2d2d2;}
 #body a:hover {color:#ffffff;}
-	
+
+
 .menu ul,
 .social ul,
 .information ul{margin:0;padding:0}
@@ -32,3 +33,4 @@ body{background-color:#22222d;
 .information{text-align:center;margin:30px 0}
 .about p,
 .information{line-height:40px;margin:0}
+
